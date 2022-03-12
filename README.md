@@ -1,11 +1,24 @@
 # Hi there, I'm Sara BOURAYA 👋 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarabouraya&theme=nightowl&show_icons=true)
-## Spring boot Developer, and Data Scientist!!
-
+## Spring boot Developer, and Data Scientist !!
+-  Hi 👋, I’m @Sara BOURAYA Java Developer BackEnd & Data Scientist
+- 👀 I’m interested in :<br>
+        🔵 Java
+          ✔️ Java 8 : Java Basics | POO | STREAM | LAMBDA EPRESSIONS | FUNCTIONAL INTERFACES | OPTIONAL | DEFAULT | ...
+          ✔️ Spring : MVC | BOOT | DATA/JPA | SECURITY | MICROSERVICES | CLOUD | RESTFULL | WEB SERVICE
+          ✔️ Tools : MAVEN | DOCKER | KUBERNETES | JENKINS
+        🔵 Artificial Intelligence
+          ✔️ DATA MINING
+          ✔️ MACHINE LEARNING
+          ✔️ DEEP LEARNING
+          ✔️ INFORMATION RETRIEVAL
+- 🌱 I’m currently Ph.D. student in Computer Vision in AI field<br>
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other companies like freelance <br>
 - 🥅 2022 Goals: Learn more about Java, Java Jee, Spring Boot and Computer Vision
+
+- 📫 How to reach me : Email : sarabouraya0@gmail.com / Phone : +212 666 756 069
 
 ### Languages and Tools:
 
