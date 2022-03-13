@@ -1,6 +1,6 @@
 # Hi there, I'm Sara BOURAYA 👋 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarabouraya&theme=flag-india&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarabouraya&theme=solarized-light&show_icons=true)
 ## Spring boot Developer, and Data Scientist !!
 -  Hi 👋, I’m @Sara BOURAYA Java Developer BackEnd & Data Scientist
 - 👀 I’m interested in :<br>
@@ -33,7 +33,7 @@
 
 ### 💻 Top Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarabouraya&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarabouraya&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
