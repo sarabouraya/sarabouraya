@@ -1,6 +1,6 @@
 # Hi there, I'm Sara BOURAYA 👋 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarabouraya&theme=nightowl&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarabouraya&theme=flag-india&show_icons=true)
 ## Spring boot Developer, and Data Scientist !!
 -  Hi 👋, I’m @Sara BOURAYA Java Developer BackEnd & Data Scientist
 - 👀 I’m interested in :<br>
@@ -31,8 +31,9 @@
 - [Multi object tracking: a survey](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11878/118780I/Multi-object-tracking-a-survey/10.1117/12.2602901.full?SSO=1)
 <!-- BLOG-POST-LIST:END -->
 
+### 💻 Top Programming Languages
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarabouraya&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
