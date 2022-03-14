@@ -27,7 +27,6 @@
 - 📫 How to reach me : Email : sarabouraya95@gmail.com / Phone : +212 666 756 069 <br>
 
 
-
 ### 📕 Latest Papers About Computer Vision
 
 <!-- BLOG-POST-LIST:START -->
